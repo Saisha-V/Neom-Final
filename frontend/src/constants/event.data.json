@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "./src/assests/images/spa_0.png",
+    "title": "Round of Golf",
+    "date": "Nov 17, 2022",
+    "guests": 3,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "image": "./src/assests/images/holiday_0.png",
+    "title": "Surfing",
+    "date": "Nov 17, 2022",
+    "guests": 1,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "image": "./src/assests/images/cusine_0.png",
+    "title": "Jazz Music",
+    "date": "Nov 16, 2022",
+    "guests": 2,
+    "rating": null
+  },
+  {
+    "id": 4,
+    "image": "./src/assests/images/holiday_0.png",
+    "title": "Sweet Wonderland",
+    "date": "Nov 15, 2022",
+    "guests": 3,
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "image": "./src/assests/images/cusine_0.png",
+    "title": "Kite Surfing",
+    "date": "Nov 12, 2022",
+    "guests": 1,
+    "rating": null
+  }
+]

@@ -1,0 +1,20 @@
+<-- Root Directory -->
+
+1. npm init -y
+2. npm i express axios mongoose cookie-parser dotenv jsonwebtoken
+3. package.json type, dev and main setting
+4. npm i nodemon -D then package.json dev setting
+
+<-- Frontend Directory -->
+
+1. npm create vite@latest .
+2. npm i axios lucide-react react-player react-hot-toast react-router-dom zustand
+3. ESLint extension
+4. App.css delete and all it's import in App.tsx
+5. Delete assests and index.css' content
+6. Initialize tailwindcss (config file change, index.css has all imports, app.tsx for demo run in return)
+7. tailwindcss extension
+8. main.tsx has BrowserRouter import and structure
+9. App.tsx import route, routes and return the folder structure
+10. add fonts using download as assests and tailwind.config.js it
+11. add caraousel using npm i react slick

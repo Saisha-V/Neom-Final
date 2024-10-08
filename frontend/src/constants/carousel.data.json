@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Round of Golf",
+    "rating": 5.0,
+    "reviews": 23,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "date": "Nov 10, 10:30 AM - Nov 29, 6:30 PM",
+    "location": "Sindalah City",
+    "category": "Golf",
+    "status": "Scheduled",
+    "temperature": "18°C",
+    "imgSrc": "./src/assests/images/Image118.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Surfing at Leisure",
+    "rating": 5.0,
+    "reviews": 23,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "date": "Nov 10, 10:30 AM - Nov 29, 6:30 PM",
+    "location": "Sindalah Beach",
+    "category": "Surfing",
+    "status": "Scheduled",
+    "temperature": "22°C",
+    "imgSrc": "./src/assests/images/cooking&dinner.png"
+  },
+  {
+    "id": 3,
+    "title": "Mountain Hiking",
+    "rating": 4.8,
+    "reviews": 45,
+    "description": "Explore the breathtaking mountain views and challenging trails...",
+    "date": "Oct 5, 8:00 AM - Oct 12, 4:00 PM",
+    "location": "Rocky Peaks",
+    "category": "Adventure",
+    "status": "Available",
+    "temperature": "15°C",
+    "imgSrc": "./src/assests/images/chinese-food.png"
+  },
+  {
+    "id": 4,
+    "title": "Yoga Retreat",
+    "rating": 4.9,
+    "reviews": 34,
+    "description": "Rejuvenate your mind and body with our exclusive yoga retreat...",
+    "date": "Dec 1, 7:00 AM - Dec 5, 5:00 PM",
+    "location": "Tranquil Resort",
+    "category": "Wellness",
+    "status": "Open for Booking",
+    "temperature": "25°C",
+    "imgSrc": "./src/assests/images/Image118.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Cooking Workshop",
+    "rating": 4.7,
+    "reviews": 19,
+    "description": "Learn to cook gourmet dishes from world-renowned chefs...",
+    "date": "Nov 15, 9:00 AM - Nov 20, 4:00 PM",
+    "location": "Culinary Academy",
+    "category": "Culinary",
+    "status": "Scheduled",
+    "temperature": "20°C",
+    "imgSrc": "./src/assests/images/cusine_0.png"
+  }
+]

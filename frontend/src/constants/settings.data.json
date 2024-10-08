@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Personal and Account Information",
+    "description": "Would you like to share your personal information with us to know you better?",
+    "enabled": false
+  },
+  {
+    "id": 2,
+    "title": "Consent for sharing information with operators",
+    "description": "Would you like to share your personal information with the operator to serve you better?",
+    "enabled": false
+  },
+  {
+    "id": 3,
+    "title": "Manage your data",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy eirmod?",
+    "enabled": false
+  },
+  {
+    "id": 4,
+    "title": "Password and Security",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy eirmod?",
+    "enabled": false
+  },
+  {
+    "id": 5,
+    "title": "Notifications",
+    "description": "Which type of notifications would you like to receive?",
+    "options": {
+      "Emails": true,
+      "Newsletters": false,
+      "Personalized notifications": true
+    }
+  },
+  {
+    "id": 6,
+    "title": "Language",
+    "description": "Which language do you prefer?",
+    "languages": ["English", "French", "Arabic"],
+    "selected": "English"
+  }
+]

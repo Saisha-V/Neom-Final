@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Men's Golf League",
+    "date": "Nov 17, 2022",
+    "review": "Great experience!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy...",
+    "rating": 5,
+    "reviews": 123,
+    "img": "./src/assests/images/trending1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Swimming game for below 18 year kids",
+    "date": "Nov 12, 2022",
+    "review": "Hey Charlie, you haven't added your feedback yet.",
+    "description": "Please share your experience with us to help us serve you better next time...",
+    "rating": 5,
+    "reviews": 129,
+    "img": "./src/assests/images/Event-Banner.png"
+  },
+  {
+    "id": 3,
+    "title": "Men's Golf League",
+    "date": "Nov 17, 2022",
+    "review": "Great experience!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy...",
+    "rating": 5,
+    "reviews": 123,
+    "img": "./src/assests/images/rolce.png"
+  },
+  {
+    "id": 4,
+    "title": "Men's Golf League",
+    "date": "Nov 17, 2022",
+    "review": "Great experience!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy...",
+    "rating": 5,
+    "reviews": 123,
+    "img": "./src/assests/images/trending1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Men's Golf League",
+    "date": "Nov 17, 2022",
+    "review": "Great experience!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonummy...",
+    "rating": 5,
+    "reviews": 123,
+    "img": "./src/assests/images/Event-Banner.png"
+  }
+]

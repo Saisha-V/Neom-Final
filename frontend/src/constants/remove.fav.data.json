@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "rank": "./src/assests/images/1.svg",
+    "title": "Round of Golf",
+    "description": "Invigorating & Uplifting",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/holiday_0.png",
+    "category": "Invigorating & Uplifting"
+  },
+  {
+    "id": 2,
+    "rank": "./src/assests/images/2.svg",
+    "title": "Surfing",
+    "description": "Active & Energizing",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/cusine_0.png",
+    "category": "Active & Energizing"
+  },
+  {
+    "id": 3,
+    "rank": "./src/assests/images/3.svg",
+    "title": "Jazz Concert",
+    "description": "Vibrant & Social",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/holiday_0.png",
+    "category": "Vibrant & Social"
+  },
+  {
+    "id": 4,
+    "rank": "./src/assests/images/4.svg",
+    "title": "Sweet Wonderland",
+    "description": "Glamorous & Grand",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/spa_0.png",
+    "category": "Glamorous & Grand"
+  },
+  {
+    "id": 5,
+    "rank": "./src/assests/images/5.svg",
+    "title": "Kite Surfing",
+    "description": "Active & Energizing",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/cusine_0.png",
+    "category": "Active & Energizing"
+  },
+  {
+    "id": 6,
+    "rank": "./src/assests/images/5.svg",
+    "title": "Kite Surfing",
+    "description": "Active & Energizing",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/holiday_0.png",
+    "category": "Active & Energizing"
+  },
+  {
+    "id": 7,
+    "rank": "./src/assests/images/5.svg",
+    "title": "Kite Surfing",
+    "description": "Active & Energizing",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/spa_0.png",
+    "category": "Active & Energizing"
+  },
+  {
+    "id": 8,
+    "rank": "./src/assests/images/5.svg",
+    "title": "Kite Surfing",
+    "description": "Active & Energizing",
+    "dateRange": "Nov 10-29",
+    "time": "10:30 AM - 7:30 PM",
+    "image": "./src/assests/images/cusine_0.png",
+    "category": "Active & Energizing"
+  }
+]

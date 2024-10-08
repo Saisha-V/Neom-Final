@@ -4,54 +4,39 @@
     "title": "Indulge in the Finest European Cuisine",
     "description": "Hi Charlie, Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
     "date": "on Nov 17, 2022",
-    "location": "Sindalah City",
-    "category": "Golf",
-    "status": "Scheduled",
-    "temperature": "18°C",
-    "imgSrc": "./src/assests/images/Image121.jpg"
+    "imgSrc": "./src/assests/images/Image121.jpg",
+    "moodImg": "./src/assests/images/disappointed.svg"
   },
   {
     "id": 2,
     "title": "Surfing at Leisure",
     "description": "Hi Susan, Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
     "date": "on Nov 17, 2022",
-    "location": "Sindalah Beach",
-    "category": "Surfing",
-    "status": "Scheduled",
-    "temperature": "22°C",
-    "imgSrc": "./src/assests/images/Image121.jpg"
+    "imgSrc": "./src/assests/images/Image119.jpg",
+    "moodImg": "./src/assests/images/disappointed.svg"
   },
   {
     "id": 3,
     "title": "Mountain Hiking",
     "description": "Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
     "date": "on Nov 17, 2022",
-    "location": "Rocky Peaks",
-    "category": "Adventure",
-    "status": "Available",
-    "temperature": "15°C",
-    "imgSrc": "./src/assests/images/Image121.jpg"
+    "imgSrc": "./src/assests/images/Image121.jpg",
+    "moodImg": "./src/assests/images/overwhelmed.svg"
   },
   {
     "id": 4,
     "title": "Yoga Retreat",
     "description": "Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
     "date": "on Nov 17, 2022",
-    "location": "Tranquil Resort",
-    "category": "Wellness",
-    "status": "Open for Booking",
-    "temperature": "25°C",
-    "imgSrc": "./src/assests/images/Image121.jpg"
+    "imgSrc": "./src/assests/images/Image119.jpg",
+    "moodImg": "./src/assests/images/overwhelmed.svg"
   },
   {
     "id": 5,
     "title": "Cooking Workshop",
     "description": "Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
     "date": "on Nov 17, 2022",
-    "location": "Culinary Academy",
-    "category": "Culinary",
-    "status": "Scheduled",
-    "temperature": "20°C",
-    "imgSrc": "./src/assests/images/Image121.jpg"
+    "imgSrc": "./src/assests/images/Image121.jpg",
+    "moodImg": "./src/assests/images/overwhelmed.svg"
   }
 ]

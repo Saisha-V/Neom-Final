@@ -3,7 +3,7 @@ import { HR } from "flowbite-react";
 import { GoBellFill } from "react-icons/go";
 import { CiGlobe } from "react-icons/ci";
 import { RxHamburgerMenu } from "react-icons/rx";
-
+import { NavLink } from "react-router-dom";
 import PopupMessage from "./PopupMessage";
 
 const Header = () => {
@@ -35,7 +35,7 @@ const Header = () => {
 
   return (
     <>
-      <nav className=" flex justify-between items-center bg-[#F9F7F2] p-4">
+      <nav className="sticky top-0 z-50 flex justify-between items-center bg-[#F9F7F2] p-4 ">
         <div className="flex items-center">
           <img
             src="./src/assests/images/logo-black.svg"
@@ -47,28 +47,46 @@ const Header = () => {
         <div className="flex items-center">
           <ul className="flex space-x-5 font-poppins">
             <li>
-              <a
-                href="/dashboard"
-                className="text-[#555] text-lg font-medium border-b-2 border-transparent hover:border-[#e60023] hover:text-[#e60023]"
+              <NavLink
+                to="/dashboard"
+                className={({ isActive }) =>
+                  `text-lg font-medium border-b-2 ${
+                    isActive
+                      ? "text-red-500 border-[#e60023]"
+                      : "text-[#555] border-transparent"
+                  }`
+                }
               >
                 Dashboard
-              </a>
+              </NavLink>
             </li>
             <li>
-              <a
-                href="/favorites"
-                className="text-[#555] text-lg font-medium border-b-2 border-transparent hover:border-[#e60023] hover:text-[#e60023]"
+              <NavLink
+                to="/favorites"
+                className={({ isActive }) =>
+                  `text-lg font-medium border-b-2 ${
+                    isActive
+                      ? "text-red-500 border-[#e60023]"
+                      : "text-[#555] border-transparent"
+                  }`
+                }
               >
                 My favorites
-              </a>
+              </NavLink>
             </li>
             <li>
-              <a
-                href="/upcoming_events"
-                className="text-[#555] text-lg font-medium border-b-2 border-transparent hover:border-[#e60023] hover:text-[#e60023]"
+              <NavLink
+                to="/upcoming_events"
+                className={({ isActive }) =>
+                  `text-lg font-medium border-b-2 ${
+                    isActive
+                      ? "text-red-500 border-[#e60023]"
+                      : "text-[#555] border-transparent"
+                  }`
+                }
               >
                 Upcoming events
-              </a>
+              </NavLink>
             </li>
           </ul>
 
@@ -81,45 +99,44 @@ const Header = () => {
               {hasNotifications && (
                 <div className="absolute top-0 right-0 bg-[#b19604] rounded-full h-2 w-2" />
               )}
-              {isMessageVisible && <PopupMessage />}{" "}
-              {/* Render PopupMessage here */}
+              {isMessageVisible && <PopupMessage />}
             </div>
 
             <div className="relative">
-              <div className="flex flex-row rounded-full bg-white px-4 py-2 ">
+              <div className="flex flex-row rounded-full bg-white px-4 py-2">
                 <RxHamburgerMenu
                   onClick={toggleHamburgerDropdown}
                   className="text-[#333] text-2xl mt-1 mr-2 cursor-pointer"
                 />
-                <div className="bg-[#b19604] cursor-pointer rounded-full h-8 w-8 flex font-poppins font-light items-center justify-center text-white ">
+                <div className="bg-[#b19604] cursor-pointer rounded-full h-8 w-8 flex font-poppins font-light items-center justify-center text-white">
                   S
                 </div>
               </div>
               {isHamburgerDropdownOpen && (
                 <ul className="absolute right-0 mt-2 w-40 bg-white rounded-md shadow-lg text-sm font-poppins">
                   <li>
-                    <a
-                      href="/profile"
+                    <NavLink
+                      to="/profile"
                       className="block px-4 py-2 hover:bg-[#b19604] text-black"
                     >
                       Edit Profile
-                    </a>
+                    </NavLink>
                   </li>
                   <li>
-                    <a
-                      href="/feedback"
+                    <NavLink
+                      to="/feedback"
                       className="block px-4 py-2 hover:bg-[#b19604] text-black"
                     >
                       Feedback
-                    </a>
+                    </NavLink>
                   </li>
                   <li>
-                    <a
-                      href="/settings"
+                    <NavLink
+                      to="/settings"
                       className="block px-4 py-2 hover:bg-[#b19604] text-black"
                     >
                       Settings
-                    </a>
+                    </NavLink>
                   </li>
                 </ul>
               )}
@@ -162,7 +179,7 @@ const Header = () => {
           </div>
         </div>
       </nav>
-      <HR className="my-0 border-gray-200" />
+      <HR className="my-0 border-gray-200 " />
     </>
   );
 };

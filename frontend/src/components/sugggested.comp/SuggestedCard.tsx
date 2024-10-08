@@ -1,32 +1,23 @@
 type SuggestedCardProps = {
   id: number;
   title: string;
-  rating: number;
-  reviews: number;
   description: string;
   date: string;
-  location: string;
-  category: string;
-  status: string;
-  temperature: string;
   imgSrc: string;
+  moodImg: string;
 };
 
 export const SuggestedCard = ({
   title,
-  rating,
-  reviews,
   description,
   date,
-  location,
-  category,
-  status,
-  temperature,
   imgSrc,
+  moodImg,
 }: SuggestedCardProps) => {
   return (
     <div className="   bg-[#F9F7F2] overflow-hidden w-[500px] mx-14">
-      <img src={imgSrc} alt={title} className="w-full rounded-lg mb-2" />
+      <img src={imgSrc} alt={title} className=" w-full rounded-lg mb-2" />
+      <img src={moodImg} alt="mood" className="absolute top-4 left-20" />
       <h3 className="text-lg font-ivy font-light">{title}</h3>
       <p className="text-xs text-gray-400 ">{date}</p>
       <p className="text-sm text-gray-600 mt-2">{description}</p>

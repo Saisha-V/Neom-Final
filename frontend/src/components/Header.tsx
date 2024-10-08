@@ -108,9 +108,13 @@ const Header = () => {
                   onClick={toggleHamburgerDropdown}
                   className="text-[#333] text-2xl mt-1 mr-2 cursor-pointer"
                 />
-                <div className="bg-[#b19604] cursor-pointer rounded-full h-8 w-8 flex font-poppins font-light items-center justify-center text-white">
+
+                <NavLink
+                  to="/profile"
+                  className="bg-[#b19604] cursor-pointer rounded-full h-8 w-8 flex font-poppins font-light items-center justify-center text-white"
+                >
                   S
-                </div>
+                </NavLink>
               </div>
               {isHamburgerDropdownOpen && (
                 <ul className="absolute right-0 mt-2 w-40 bg-white rounded-md shadow-lg text-sm font-poppins">

@@ -1,11 +1,11 @@
 import { Route, Routes } from "react-router-dom";
 
 import SignupPage from "./pages/SignupPage";
-import HomePage from "./pages/HomePage";
-import FavPage from "./pages/FavPage";
-import UpcomingEvents from "./pages/UpcomingEvents";
-import Feedback from "./pages/Feedback";
-import Settings from "./pages/Settings";
+import HomePage from "./pages/dashboard/HomePage";
+import FavPage from "./pages/favourite/FavPage";
+import UpcomingEvents from "./pages/upcoming/UpcomingEvents";
+import Feedback from "./pages/feedback/Feedback";
+import Settings from "./pages/settings/Settings";
 
 function App() {
   return (

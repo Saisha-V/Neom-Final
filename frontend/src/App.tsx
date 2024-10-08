@@ -6,6 +6,7 @@ import FavPage from "./pages/favourite/FavPage";
 import UpcomingEvents from "./pages/upcoming/UpcomingEvents";
 import Feedback from "./pages/feedback/Feedback";
 import Settings from "./pages/settings/Settings";
+import ProfilePage from "./pages/ProfilePage";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Route path="/favorites" element={<FavPage />} />
       <Route path="/upcoming_events" element={<UpcomingEvents />} />
       <Route path="/feedback" element={<Feedback />} />
+      <Route path="/profile" element={<ProfilePage />} />
       <Route path="/settings" element={<Settings />} />
     </Routes>
   );

@@ -14,7 +14,7 @@ const PopupMessage: React.FC = () => {
   return (
     <>
       {showPopup && (
-        <div className="fixed top-1/3 left-3/4 transform -translate-x-1/2 -translate-y-1/2 z-50">
+        <div className="fixed top-1/3 right-5 transform -translate-x-1/2 -translate-y-1/2 z-50">
           <div className="bg-gray-800 text-white p-8 w-96 rounded-lg shadow-lg relative">
             <button
               className="absolute top-2 right-3 bg-transparent text-white text-2xl"

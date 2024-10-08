@@ -52,7 +52,7 @@ const Header = () => {
                 className={({ isActive }) =>
                   `text-lg font-medium border-b-2 ${
                     isActive
-                      ? "text-red-500 border-[#e60023]"
+                      ? "text-red-500 border-red-500"
                       : "text-[#555] border-transparent"
                   }`
                 }
@@ -66,7 +66,7 @@ const Header = () => {
                 className={({ isActive }) =>
                   `text-lg font-medium border-b-2 ${
                     isActive
-                      ? "text-red-500 border-[#e60023]"
+                      ? "text-red-500 border-red-500"
                       : "text-[#555] border-transparent"
                   }`
                 }
@@ -80,7 +80,7 @@ const Header = () => {
                 className={({ isActive }) =>
                   `text-lg font-medium border-b-2 ${
                     isActive
-                      ? "text-red-500 border-[#e60023]"
+                      ? "text-red-500 border-red-500"
                       : "text-[#555] border-transparent"
                   }`
                 }

@@ -3,7 +3,7 @@ import { FaToggleOn, FaToggleOff } from "react-icons/fa";
 import { IoMdRadioButtonOn, IoMdRadioButtonOff } from "react-icons/io";
 import { HR } from "flowbite-react";
 
-import settingsData from "../../constants/settings.data.json";
+import settingsData from "../../../constants/settings.data.json";
 
 type Option = {
   id: number;

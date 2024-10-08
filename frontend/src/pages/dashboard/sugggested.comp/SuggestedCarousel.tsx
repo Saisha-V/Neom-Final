@@ -5,7 +5,7 @@ import { GrLinkNext, GrLinkPrevious } from "react-icons/gr";
 
 import "swiper/swiper-bundle.css";
 
-import carouselData from "../../constants/suggested.data.json";
+import carouselData from "../../../constants/suggested.data.json";
 
 const SuggestedCarousel = () => {
   const prevRef = useRef(null);

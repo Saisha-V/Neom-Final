@@ -58,7 +58,9 @@ const MainComponent: React.FC = () => {
             />
           ))
         ) : (
-          <p>No events match your filters.</p>
+          <p className="font-poppins text-lg text-gray-600 uppercase border border-gray-600 rounded-full p-4">
+            No events match your filters
+          </p>
         )}
       </div>
     </div>

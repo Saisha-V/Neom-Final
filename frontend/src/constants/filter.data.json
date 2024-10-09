@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "Comedy Night",
+    "category": "Stand Up Comedy",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 2,
+    "title": "Golf Championship",
+    "category": "Golf Tournament",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Golf Match",
+    "category": "Golf Tournament",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Kite Surfing",
+    "category": "Kite Surfing",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 5,
+    "title": "Singing Competition",
+    "category": "Singing",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cricket League",
+    "category": "Box Cricket",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Swimming Gala",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/spa_0.png"
+  },
+  {
+    "id": 8,
+    "title": "Kite Surfing",
+    "category": "Kite Surfing",
+    "travelTime": "10 mins drive",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 9,
+    "title": "Stand Up",
+    "category": "Stand Up Comedy",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Talk with Experts",
+    "category": "Talks Shows",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Boxing Championship",
+    "category": "Box Cricket",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Beach Volleyball",
+    "category": "RAMP Walk",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Open Mic",
+    "category": "Stand Up Comedy",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Charity Golf",
+    "category": "Golf Tournament",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Singing Workshop",
+    "category": "Singing",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Kite Festival",
+    "category": "Kite Surfing",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 17,
+    "title": "Comic Open Mic",
+    "category": "Stand Up Comedy",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Indoor Swimming",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/spa_0.png"
+  },
+  {
+    "id": 19,
+    "title": "Gala Dinner",
+    "category": "Talks Shows",
+    "travelTime": "10 mins driving",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Golf Fundraiser",
+    "category": "Golf Tournament",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Kite Camp",
+    "category": "Kite Surfing",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Singing Contest",
+    "category": "Singing",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 23,
+    "title": "Cricket Tournament",
+    "category": "Box Cricket",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Community Swimming",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 25,
+    "title": "Surfing Training",
+    "category": "Kite Surfing",
+    "travelTime": "20 mins driving",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Laugh Fest",
+    "category": "Stand Up Comedy",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Celebrity Golf",
+    "category": "Golf Tournament",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Walk Exhibition",
+    "category": "RAMP Walk",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Surfing Showdown",
+    "category": "Kite Surfing",
+    "travelTime": "10 mins driving",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Kids Swimming",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/spa_0.png"
+  },
+  {
+    "id": 31,
+    "title": "Cricket Challenge",
+    "category": "Box Cricket",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 32,
+    "title": "Comedy Fest",
+    "category": "Stand Up Comedy",
+    "travelTime": "10 mins driving",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 33,
+    "title": "Golf Clinic",
+    "category": "Golf Tournament",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Singing Camp",
+    "category": "Singing",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Surfing Lessons",
+    "category": "Kite Surfing",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 36,
+    "title": "Open Water",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/spa_0.png"
+  },
+  {
+    "id": 37,
+    "title": "Cricket Friends",
+    "category": "Box Cricket",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Talent Show",
+    "category": "Singing",
+    "travelTime": "20 mins driving",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Comedy Night",
+    "category": "Stand Up Comedy",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Day Out",
+    "category": "Golf Tournament",
+    "travelTime": "10 mins driving",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 41,
+    "title": "Comedy Fusion",
+    "category": "Stand Up Comedy",
+    "travelTime": "20 mins driving",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 42,
+    "title": "Golf Gala",
+    "category": "Golf Tournament",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Adventure Day",
+    "category": "Kite Surfing",
+    "travelTime": "15 mins driving",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Acoustic Singing",
+    "category": "Singing",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Cricket Festival",
+    "category": "Box Cricket",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Family Swimming",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/spa_0.png"
+  },
+  {
+    "id": 47,
+    "title": "Skills Challenge",
+    "category": "Kite Surfing",
+    "travelTime": "10 mins driving",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Battle Bands",
+    "category": "Singing",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 49,
+    "title": "Sunset Comedy",
+    "category": "Stand Up Comedy",
+    "travelTime": "15 mins driving",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 50,
+    "title": "Charity Golf",
+    "category": "Golf Tournament",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Under Stars",
+    "category": "Singing",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Box Cricketing",
+    "category": "Box Cricket",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/golf1.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Winter Swimming ",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/spa_0.png"
+  },
+  {
+    "id": 54,
+    "title": "Surfing Spectacular",
+    "category": "Kite Surfing",
+    "travelTime": "15 mins driving",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Comedy Open",
+    "category": "Stand Up Comedy",
+    "travelTime": "30 mins driving",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 56,
+    "title": "Golf Networking",
+    "category": "Golf Tournament",
+    "travelTime": "20 mins drive",
+    "image": "./src/assests/images/holiday_0.png"
+  },
+  {
+    "id": 57,
+    "title": "For a Cause",
+    "category": "Singing",
+    "travelTime": "10 mins walking",
+    "image": "./src/assests/images/trending2copy.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Cricket Championship",
+    "category": "Box Cricket",
+    "travelTime": "20 mins walking",
+    "image": "./src/assests/images/cusine_0.png"
+  },
+  {
+    "id": 59,
+    "title": "Swimming Carnival",
+    "category": "Swimming",
+    "travelTime": "30 mins drive",
+    "image": "./src/assests/images/spa_0.png"
+  },
+  {
+    "id": 60,
+    "title": "Community Day",
+    "category": "Kite Surfing",
+    "travelTime": "10 mins driving",
+    "image": "./src/assests/images/Image121copyy.jpg"
+  }
+]

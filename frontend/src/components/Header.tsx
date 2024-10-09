@@ -113,7 +113,7 @@ const Header = () => {
                   to="/profile"
                   className="bg-[#b19604] cursor-pointer rounded-full h-8 w-8 flex font-poppins font-light items-center justify-center text-white"
                 >
-                  S
+                  C
                 </NavLink>
               </div>
               {isHamburgerDropdownOpen && (

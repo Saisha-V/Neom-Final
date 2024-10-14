@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "emilys",
+      "password": "emilyspass",
+      "name": "Emily Smith",
+      "email": "emily@example.com"
+    },
+    {
+      "id": 2,
+      "username": "johns",
+      "password": "johnspass",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 3,
+      "username": "michaelb",
+      "password": "michaelspass",
+      "name": "Michael Brown",
+      "email": "michael@example.com"
+    },
+    {
+      "id": 4,
+      "username": "saraw",
+      "password": "saraspass",
+      "name": "Sara Wilson",
+      "email": "sara@example.com"
+    },
+    {
+      "id": 5,
+      "username": "daniels",
+      "password": "danielspass",
+      "name": "Daniel Smith",
+      "email": "daniel@example.com"
+    },
+    {
+      "id": 6,
+      "username": "lindar",
+      "password": "lindarpass",
+      "name": "Linda Roberts",
+      "email": "linda@example.com"
+    },
+    {
+      "id": 7,
+      "username": "jamesj",
+      "password": "jamespass",
+      "name": "James Johnson",
+      "email": "james@example.com"
+    },
+    {
+      "id": 8,
+      "username": "oliviam",
+      "password": "oliviamspass",
+      "name": "Olivia Martinez",
+      "email": "olivia@example.com"
+    },
+    {
+      "id": 9,
+      "username": "charlesk",
+      "password": "charlespass",
+      "name": "Charles King",
+      "email": "charles@example.com"
+    },
+    {
+      "id": 10,
+      "username": "isabellab",
+      "password": "isabellapass",
+      "name": "Isabella Brown",
+      "email": "isabella@example.com"
+    }
+  ],
+  "auth": {
+    "login": {
+      "success": true,
+      "message": "Login successful",
+      "accessToken": "fake-access-token",
+      "expiresIn": 1800
+    },
+    "me": {
+      "success": true,
+      "message": "User data fetched",
+      "user": {
+        "id": 1,
+        "username": "emilys",
+        "name": "Emily Smith",
+        "email": "emily@example.com"
+      }
+    }
+  }
+}

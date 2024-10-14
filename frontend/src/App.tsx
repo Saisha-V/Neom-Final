@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 
 import SignupPage from "./pages/SignupPage";
+import LoginPage from "./pages/LoginPage";
 import HomePage from "./pages/dashboard/HomePage";
 import FavPage from "./pages/favourite/FavPage";
 import UpcomingEvents from "./pages/upcoming/UpcomingEvents";
@@ -15,6 +16,7 @@ function App() {
       <Route path="/home" element={<HomePage />} />
       <Route path="/dashboard" element={<HomePage />} />
       <Route path="/signup" element={<SignupPage />} />
+      <Route path="/login" element={<LoginPage />} />
       <Route path="/favorites" element={<FavPage />} />
       <Route path="/upcoming_events" element={<UpcomingEvents />} />
       <Route path="/feedback" element={<Feedback />} />

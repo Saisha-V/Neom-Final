@@ -1,4 +1,5 @@
 import React from "react";
+import ReactSpeedometer from "react-d3-speedometer";
 
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
@@ -10,6 +11,7 @@ const Feedback = () => {
     <>
       <Header />
       <GradientHero />
+      <ReactSpeedometer />
       <FeedbackList />
       <Footer />
     </>

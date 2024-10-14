@@ -47,12 +47,10 @@ const ProfilePage: React.FC = () => {
   };
 
   const handleSave = () => {
-    // Add your save logic here
     console.log("Profile saved:", profileData);
   };
 
   const handleCancel = () => {
-    // Add your cancel logic here
     console.log("Profile editing canceled");
   };
 

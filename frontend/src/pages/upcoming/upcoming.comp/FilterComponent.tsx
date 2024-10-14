@@ -38,7 +38,7 @@ const FilterComponent: React.FC<FilterProps> = ({
 }) => {
   return (
     <div className="bg-[#F9F7F2] pl-14 p-4 text-gray-700">
-      <div className="mb-6 flex space-x-20">
+      <div className="mb-6 flex space-x-2">
         <div className="gap-4">
           <h2 className="mb-2 font-poppins">What suits your schedules?</h2>
           <div className="buttons flex gap-2 font-thin">
@@ -46,8 +46,8 @@ const FilterComponent: React.FC<FilterProps> = ({
               <FaCalendarAlt className="text-red-500" />
               Pick a date
             </button>
-            <button className="flex items-center gap-1 px-4 border border-gray-400 rounded-full">
-              <FaMapMarkerAlt className="text-red-500" />
+            <button className="flex items-center gap-1 px-4 border border-gray-400 rounded-full pr-20">
+              <FaMapMarkerAlt className="text-red-500 " />
               Pick a location
             </button>
           </div>

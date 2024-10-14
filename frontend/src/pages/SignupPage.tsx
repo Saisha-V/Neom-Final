@@ -65,6 +65,12 @@ const SignUpPage = () => {
                 Sign Up
               </button>
             </Link>
+
+            <Link to={"/login"}>
+              <button className="mt-2 w-full py-2 bg-orange-900 text-white font-semibold rounded-md hover:bg-orange-950">
+                Log In instead?
+              </button>
+            </Link>
           </form>
         </div>
       </div>
